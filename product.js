@@ -8,11 +8,6 @@ function displayMessage() {
       window.alert("Thank you for subscribing to our newsletter!");
     }
   }
-
-  function direct(){
-      window.open("https://youtu.be/Q-hRbywxORk");
-  }
-
   const plans = document.querySelectorAll('.card');
   plans.forEach(plan => {
     plan.addEventListener('click', function () {
