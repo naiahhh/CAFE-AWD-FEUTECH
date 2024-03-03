@@ -81,7 +81,7 @@
 
 
 #hero {
-  background: url('Coffee.gif') center center no-repeat;
+  background: url('/Assets/img/Coffee.gif') center center no-repeat;
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
