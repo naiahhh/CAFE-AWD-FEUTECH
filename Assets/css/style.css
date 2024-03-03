@@ -6,6 +6,7 @@
 .navbar {
   background-color: #472715;
   font-family: 'poppins', sans-serif;
+  padding: 20px; 
 }
 
 .card {
